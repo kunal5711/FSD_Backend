@@ -6,3 +6,4 @@ const path = fs.mkdir("MyFolder", {recursive: true}, (err) => {
 })
 
 console.log(path)
+print(hii)
