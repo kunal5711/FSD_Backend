@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "student": "Kunal",
+        "year": 3,
+        "section": "A"
+    },
+    {
+        "id": 2,
+        "student": "Praval",
+        "year": 3,
+        "section": "A"
+    },
+    {
+        "id": 3,
+        "student": "Yash",
+        "year": 3,
+        "section": "A"
+    },
+    {
+        "id": 4,
+        "student": "Harsh",
+        "year": 3,
+        "section": "B"
+    },
+    {
+        "id": 5,
+        "student": "Harsh",
+        "year": 3,
+        "section": "A"
+    },
+    {
+        "id": 6,
+        "student": "Garima",
+        "year": 3,
+        "section": "A"
+    }
+]
